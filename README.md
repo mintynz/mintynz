@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mintynz
-- 👀 I’m interested in web services, single board computers, microcontrollers and electronics
-- 🌱 I’m currently learning React
+- 👀 I’m interested in web services, machine learning, single-board computers, microcontrollers and electronics
+- 🌱 I’m currently learning react, microsoft azure
 
 <!---
 - 💞️ I’m looking to collaborate on ...TBC...
